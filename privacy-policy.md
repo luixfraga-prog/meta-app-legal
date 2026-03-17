@@ -14,4 +14,4 @@ The data accessed through the Meta API is used solely to display and manage your
 No user data is stored on external servers. All API tokens are stored locally on your device.
 
 ## Contact
-For any questions, contact: tu@email.com
+For any questions, contact: luixfraga@gmail.com
